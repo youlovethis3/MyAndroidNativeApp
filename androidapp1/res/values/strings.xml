@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">androidapp1</string>
+    <string name="text1">wtf</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="action_settings">Hello world!</string>
+
+</resources>
